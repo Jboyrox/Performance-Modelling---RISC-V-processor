@@ -37,3 +37,13 @@ the new instruction is fetched in the next cycle using the new branch PC address
 
 I Measured and reported average CPI, Total execution cycles, and Instructions per cycle for both these cores(single stage core and 5 stage pipelined core)
 by adding performance monitors to the code.
+
+- The result files expected are in the "results" directory.</br>
+  
+- The StateResult_FS.txt and StateResult_SS.txt printS out all the fields in the internal</br>
+  state registers as per MY  design. 
+  
+- Five test cases(TC0,TC1,TC2,TC3 and TC4) have been revealed and there are 5 more against which are design was
+  evaluated as part of this project.</br>
+  
+  The project description is provided in more detail in ECE-6913 - RISC-V Project (1).pdf
